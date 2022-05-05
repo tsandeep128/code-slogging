@@ -1,3 +1,7 @@
+/* 
+Implementation of a hash map  
+*/
+
 class MyHashMap {
     long int n,i,hmap[1000001];
     public:

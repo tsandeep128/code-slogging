@@ -1,3 +1,7 @@
+/*
+Basic operations on vector
+*/
+
 #include<iostream>
 #include<vector>
 

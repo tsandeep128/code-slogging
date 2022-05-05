@@ -1,3 +1,7 @@
+/*
+Fastest implementation of hashmap
+*/
+
 #include<iostream>
 #include<cstring>
 

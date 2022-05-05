@@ -1,3 +1,7 @@
+/*
+Fastest implementation of hash set
+*/
+
 #include<iostream>
 #include<vector>
 
