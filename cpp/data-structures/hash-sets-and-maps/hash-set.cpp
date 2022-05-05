@@ -1,3 +1,7 @@
+/*
+Basic hash set implementation
+*/
+
 long int i,n,hset[1000000]; //declare index variables and allocate memory for hash set array
 
 class MyHashSet {

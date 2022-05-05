@@ -1,3 +1,7 @@
+/*
+Implementation to find duplicate element in hash set
+*/
+
 #include<iostream>
 #include<vector>
 #include<bits/stdc++.h>
